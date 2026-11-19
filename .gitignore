@@ -1,0 +1,14 @@
+# Dependencias y configuración de editor
+.vscode/
+node_modules/
+.idea/
+
+# Backups y archivos temporales
+*.bak
+*.backup*
+*.tmp
+
+# Archivos del sistema
+Thumbs.db
+Desktop.ini
+.DS_Store
